@@ -1,0 +1,31 @@
+body {
+  background: green;
+}
+
+h1 {
+  background: red;
+}
+
+.text1 {
+  font-size: 16px;
+}
+
+h2 {
+  color: #fa8072;
+}
+
+p {
+  color: rgb(0, 255, 0);
+}
+
+div {
+  border: 3px solid currentColor;
+}
+
+#div1 {
+  color: green;
+}
+
+#div2 {
+  color: blue;
+}
